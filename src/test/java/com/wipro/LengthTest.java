@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class UC3_LengthTest{
+public class LengthTest {
 
     @Test
     void givenSameFeetValues_shouldReturnTrue(){

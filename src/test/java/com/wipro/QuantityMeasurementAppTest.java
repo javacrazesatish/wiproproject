@@ -3,7 +3,7 @@ package com.wipro;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
-public class UC1_QuantityMeasurementAppTest {
+public class QuantityMeasurementAppTest {
 
     @Test
     void sameObjectShouldBeEquals(){
