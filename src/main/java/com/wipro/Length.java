@@ -44,10 +44,4 @@ public class Length {
         return Objects.hashCode(toBaseUnit());
     }
 
-    public static void main(String[] args) {
-        Length length1 =new Length(1.0,UC3_LengthUnit.Feet);
-        Length length2 = new Length(12.0,UC3_LengthUnit.Inches);
-
-        System.out.println("Are lengths equals? "+length1.equals(length2));
-    }
 }
